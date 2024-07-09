@@ -1,3 +1,14 @@
+# Project UAS Android
+
+## Profil
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Ricky Alfian Saputra |
+| **NIM** | 312210279 |
+| **Kelas** | TI.22.A.4 |
+| **Mata Kuliah** | PEMOGRAMAN MOBILE 2 |
+
+
 # tokokita
 
 A new Flutter project.
